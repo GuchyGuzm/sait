@@ -1,0 +1,47 @@
+.header {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+    width:1000px;
+    height:100px;
+    border:1px solid #000000;
+    background: #009966;
+	background-image: url(fon.jpg);
+	color: #FFFFFF;
+    }
+.pages { 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:1000px;
+	background: #FFFFFF;
+    }
+.content {
+    margin-right:10px;
+    width:764px;
+    margin: auto 0px auto;
+    border:14px solid #FFFFFF;
+    background: #FFFFFF;
+    float:left;
+    }
+.sidebar {
+    width:180px;
+	margin-left:10px;
+    margin: auto auto auto auto ;
+	list-style: none;
+    border:14px solid #FFFFFF;
+    background: #EEEEEE;
+    float:left;
+    }
+.foot {
+    clear:both;
+    }
+.footer {
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    height:50px;
+    border:1px solid #000000;
+    background: #DDDDDD;
+    }
+    
